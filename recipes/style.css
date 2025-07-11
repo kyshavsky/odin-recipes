@@ -1,0 +1,33 @@
+h2{
+    background-color: aqua;
+    
+}
+img{
+    margin-left: 100px;
+}
+h3{
+    background-color: beige;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p, ul, ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+
+a.home{
+    display: block;
+    color: red;
+    border: 5px solid burlywood;
+    height: auto;
+    width: 37px;
+}
+.home:visited{
+    color:orange;
+}
+
